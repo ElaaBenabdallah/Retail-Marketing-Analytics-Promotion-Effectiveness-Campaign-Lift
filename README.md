@@ -13,5 +13,5 @@ An end-to-end retail analytics case study evaluating the effectiveness of promot
 * **Methodology**: Promotional lift modeling, segmentation, KPI metric architecture, and executive dashboard design.
 
 ## 📈 Dashboard Preview
-![Uploading image.png…]()
+<img width="772" height="446" alt="image" src="https://github.com/user-attachments/assets/537a9cf5-ecda-4429-b6a2-10e18e9225e6" />
 
